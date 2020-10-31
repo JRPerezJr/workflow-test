@@ -1,3 +1,3 @@
 ## workflow-test
 
-### tesing out the workflow
+### testing out the workflow
